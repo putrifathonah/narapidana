@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
       title: 'Data Narapidana',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.indigo),
+        colorScheme: ColorScheme.fromSeed(seedColor: Colors.pink),
         useMaterial3: true,
       ),
       home: const HomeScreen(),
