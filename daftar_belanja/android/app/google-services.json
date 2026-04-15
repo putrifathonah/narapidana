@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "238119266452",
+    "firebase_url": "https://sebelumuts-2be00-default-rtdb.firebaseio.com",
+    "project_id": "sebelumuts-2be00",
+    "storage_bucket": "sebelumuts-2be00.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238119266452:android:c71763090f0467c22eac81",
+        "android_client_info": {
+          "package_name": "com.example.belajarsebelumuts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR0lRLWueGxtb86l2DIxL85E1f-TDIrAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238119266452:android:9112c9ba6753551e2eac81",
+        "android_client_info": {
+          "package_name": "com.example.daftar_belanja"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR0lRLWueGxtb86l2DIxL85E1f-TDIrAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238119266452:android:8596de25cd1c8a152eac81",
+        "android_client_info": {
+          "package_name": "com.example.latihanuts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR0lRLWueGxtb86l2DIxL85E1f-TDIrAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
